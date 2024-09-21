@@ -10,6 +10,7 @@ public class Welcome{
         String name=myobj.nextLine();
         myobj.close();
         System.out.println("Welcome "+ name);
+        System.out.println("Welcome to VS Code.");
 
         
     }
